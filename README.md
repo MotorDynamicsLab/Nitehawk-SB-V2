@@ -12,3 +12,13 @@ Nitehawk V2 is a toolboard featuring STM32G0B1 MCU, TMC2209 stepper drive, ADXL3
 - Custom toolhead cable, a single combined USB data and power cable rated for drag chain use, but can also be used in umbilical configuration.
 - Convenient Input Shaping, run input shaper calibration at anytime with an onboard ADXL345 accelerometer.
 - Tachometer enabled fan ports (PCF and HEF), allowing for fan speed detection.
+
+## Change list from Nitehawk-SB V1
+
+- MCU changed from RP2040 to STM32G0B1
+- Added USB hub
+- Added I2C port
+- Reversed Connector Gender between main toolboard and fan adapter PCB
+- Keyed fan adapter headers prevent misaligned connection
+- Improved ESD performance
+- Probe, TH0, XY Endstop ports changed from JST-XH2.5 to JST-PH2.0
