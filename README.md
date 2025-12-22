@@ -15,10 +15,9 @@ Nitehawk V2 is a toolboard featuring STM32G0B1 MCU, TMC2209 stepper drive, ADXL3
 
 ## Change list from Nitehawk-SB V1
 
-- MCU changed from RP2040 to STM32G0B1
-- Added USB hub
-- Added I2C port
-- Reversed Connector Gender between main toolboard and fan adapter PCB
-- Keyed fan adapter headers prevent misaligned connection
-- Improved ESD performance
+- MCU changed from RP2040 to STM32G0B1.
+- Added USB hub.
+- Added I2C port.
+- Reversed header gender between main toolboard and fan adapter PCB. The headers are also now keyed prevent misalignment.
+- Improved ESD performance.
 - Probe, TH0, XY Endstop ports changed from JST-XH2.5 to JST-PH2.0
