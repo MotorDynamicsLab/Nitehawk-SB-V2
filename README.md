@@ -2,7 +2,7 @@
 
 Nitehawk V2 is a toolboard featuring STM32G0B1 MCU, TMC2209 stepper drive, ADXL345 Accelerometer, and USB hub. The form factor is based on [hartk’s two piece stealthburner toolhead PCB](https://github.com/hartk1213/Voron-Hardware-SBPCB/tree/master/Stealthburner_Toolhead_PCB) but with some minor changes. Nitehawk-36's USB based connection method allows for a simple and easy setup compared to other CAN toolboards. The USB connnection also allows for a secondary USB port to connect your nozzle webcam or eddy current probe.
 
-<img title="" src="./Images/Nitehawk-SB-main.jpg" alt="Nitehawk-SB-main.jpg" width="547">
+<img title="" src="./Images/nitehawk-sb_title_img.jpg" alt="nitehawk-sbv2_title_img" width="547">
 
 ## Features
 
